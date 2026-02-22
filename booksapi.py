@@ -81,4 +81,5 @@ api.add_resource(BookList, "/books")
 
 if __name__ == '__main__':
 
-    app.run(port=8820, debug=True)
+    app.run(port=10000, debug=True)
+
